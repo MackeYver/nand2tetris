@@ -1,1 +1,0 @@
-Finished project 01, all logic gates have been implemented in hdl.
